@@ -17,7 +17,10 @@ O projeto utiliza uma combinação de metodologias de pesquisa-ação e ferramen
 
 ## Montagem da obra
 
-### Opção 1: tela + alto-falante
+### Opção 1: uma tela + alto-falante
+
+Tela com trechos de histórias e QR code para acessar a transmissão online. Áudio: transmissão online.
 
 ### Opção 2: instalação site-specific interativa
 
+Ambiente com quatro telas: trechos de histórias, QR code, descrição da obra, e código-fonte do software. Cada uma delas transmite uma história, em sequência.
